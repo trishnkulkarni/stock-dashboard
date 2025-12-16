@@ -126,12 +126,10 @@ http://localhost:3000
 
 ---
 
-## 🌐 Deployed URLs
+## 🌐 Deployed URL
 
-* **Frontend**:
-  👉 [https://stock-dashboard.onrender.com](https://stock-dashboard.onrender.com)
-* **Backend**:
-  👉 [https://stock-dashboard-backend-v1.onrender.com](https://stock-dashboard-backend-v1.onrender.com)
+  👉 https://stock-dashboard-abt7.onrender.com/
+
 
 > ⚠️ Note: Render free tier may take ~30–50 seconds to wake up if idle.
 
